@@ -4,7 +4,7 @@ Previously Owner and Lead Developer of [The XYZ Network](https://thexyznetwork.x
 <a href="https://wakatime.com/@59a05c20-3c4f-4499-8c42-0201d9256814"><img src="https://wakatime.com/badge/user/59a05c20-3c4f-4499-8c42-0201d9256814.svg" alt="Total time coded since Apr 25 2019" /></a>
 
 ## My Key Projects
-- [Aline.js Requests](https://github.com/0wain/alpinejs-requests). Inline HTTP requests made simple.
+- [Alpine.js Requests](https://github.com/0wain/alpinejs-requests). Inline HTTP requests made simple.
 - [Sholpine](https://github.com/0wain/sholpine). Shopify Liquid boilerplate, using Alpine.js and Tailwind.
 - [Filament Chunked file Uploads](https://github.com/0wain/filament-chunked-file-uploads). Chunked file uploads for Filament PHP
 - [gmsv_dot_env](https://github.com/0wain/gmsv_dot_env). A not-so-true-to-life implementation of .env (dot env) for Garry's Mod
