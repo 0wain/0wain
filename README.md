@@ -13,5 +13,5 @@ Previously Owner and Lead Developer of [The XYZ Network](https://thexyznetwork.x
 - [pVault](https://www.gmodstore.com/market/view/pvault-the-perfect-bank-raid-heist-addon-masks). The ultimate raidable bank system for Garry's Mod.
 - [xAdmin](https://github.com/TheXYZNetwork/xAdmin). A free and basic administration system for Garry's Mod.
 - [SIMPSit](https://github.com/TheXYZNetwork/SIMPSit). A rewrite of the sit anywhere script for Garry's Mod. Designed for servers, with optimization and simplicity in mind. 
-- [Lite Tools](https://github.com/TheXYZNetwork/lite-tools). A stripped-down and simplistic set of building tools, designed for DarkRP.
-- [PoliceRP.xyz Open Sourced](https://github.com/TheXYZNetwork/PoliceRP-OpenSource). An open source release of The XYZ Network's PoliceRP server. 
+- [Lite Tools](https://github.com/TheXYZNetwork/lite-tools). A stripped-down and simplistic set of building tools, designed for DarkRP, a Garry's Mod gamemode.
+- [PoliceRP.xyz Open Sourced](https://github.com/TheXYZNetwork/PoliceRP-OpenSource). An open source release of The XYZ Network's PoliceRP server for Garry's Mod. 
