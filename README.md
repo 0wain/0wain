@@ -9,6 +9,8 @@ Previously Owner and Lead Developer of [The XYZ Network](https://thexyznetwork.x
 - [Filament Chunked file Uploads](https://github.com/0wain/filament-chunked-file-uploads). Chunked file uploads for Filament PHP
 - [gmsv_dot_env](https://github.com/0wain/gmsv_dot_env). A not-so-true-to-life implementation of .env (dot env) for Garry's Mod
 - [Squish Logs](https://squish.wtf/). Bring your game logs online.
+- [pCasino](https://www.gmodstore.com/market/view/pcasino-the-perfect-casino-addon-roulette-blackjack-slots-prize-wheel). A complete casino system for Garry's Mod.
+- [pVault](https://www.gmodstore.com/market/view/pvault-the-perfect-bank-raid-heist-addon-masks). The ultimate raidable bank system for Garry's Mod.
 - [xAdmin](https://github.com/TheXYZNetwork/xAdmin). A free and basic administration system for Garry's Mod.
 - [SIMPSit](https://github.com/TheXYZNetwork/SIMPSit). A rewrite of the sit anywhere script. Designed for servers, with optimization and simplicity in mind.
 - [Lite Tools](https://github.com/TheXYZNetwork/lite-tools). A stripped-down and simplistic set of building tools, designed for DarkRP.
