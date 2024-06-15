@@ -6,7 +6,7 @@ Previously Owner and Lead Developer of [The XYZ Network](https://thexyznetwork.x
 ## My Key Projects
 - [Alpine.js Requests](https://github.com/0wain/alpinejs-requests). Inline HTTP requests made simple.
 - [Sholpine](https://github.com/0wain/sholpine). Shopify Liquid boilerplate, using Alpine.js and Tailwind.
-- [Filament Chunked file Uploads](https://github.com/0wain/filament-chunked-file-uploads). Chunked file uploads for Filament PHP
+- [Filament Chunked File Uploads](https://github.com/0wain/filament-chunked-file-uploads). Chunked file uploads for Filament PHP
 - [gmsv_dot_env](https://github.com/0wain/gmsv_dot_env). A not-so-true-to-life implementation of .env (dot env) for Garry's Mod
 - [Squish Logs](https://squish.wtf/). Bring your game logs online.
 - [pCasino](https://www.gmodstore.com/market/view/pcasino-the-perfect-casino-addon-roulette-blackjack-slots-prize-wheel). A complete casino system for Garry's Mod.
