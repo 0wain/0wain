@@ -1,4 +1,5 @@
 Previously Owner and Lead Developer of [The XYZ Network](https://thexyznetwork.xyz).
+
 Now Developer at [Discovery Design](https://discoverydesign.co.uk).
 
 <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=owainjones74"/>
